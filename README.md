@@ -1,6 +1,6 @@
 # Wildbeast - Origamid
 
-![preview](./.github/preview.jpg)
+![preview](./.github/preview.png)
 
 Projeto desenvolvido no curso da Origamid.
 
